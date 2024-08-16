@@ -28,7 +28,6 @@ figure{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    
 }
 
 body{
@@ -48,6 +47,7 @@ p{
     display: inline-block;
     margin-right: 1%;
     margin-left: 1%;
+    margin: 30px 20px;
 }
 
 .albumI{
@@ -90,3 +90,7 @@ button{
     box-sizing: content-box;
 }
 
+#albums{
+    display: block;
+    align-content: space-between;
+}
